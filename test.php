@@ -1,7 +1,7 @@
 <?php
 $servername = "127.0.0.1";
 $username = "mysite";
-$password = "zWFkfyYCGL88345e";
+$password = "zWFkfyYCGL45678";
 $dbname = "mysite";
 
 // 创建连接
