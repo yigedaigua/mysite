@@ -2,7 +2,7 @@
 
 请将图片文件保存在images文件夹下，js文件与css文件保存在与index.php一样的位置。
 
-text.php中修改数据库连接
+test.php中修改数据库连接
 
 数据库中有四个字段
 
